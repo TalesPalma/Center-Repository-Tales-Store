@@ -1,0 +1,6 @@
+[submodule "back-end-tales-store"]
+	path = back-end-tales-store
+	url = https://github.com/TalesPalma/Tales-Store-Rest-API
+[submodule "front-end-tales-store"]
+	path = front-end-tales-store
+	url = https://github.com/TalesPalma/Tales-Store-FrontEnd-NextJs
